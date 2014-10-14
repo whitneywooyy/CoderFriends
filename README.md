@@ -23,3 +23,4 @@ The base route will display the index.html template. Show a "Login with Github" 
 
 ###/home
 The home route will display the current user's GitHub friends via the home.html template
+
