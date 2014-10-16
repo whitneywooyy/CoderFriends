@@ -5,9 +5,9 @@ CoderFriends
 Use a Firebase backend with Passport and Express to show a user's coder friends.
 
 ##Resources
-[passport-github] (https://github.com/jaredhanson/passport-github)
-[Github API Docs] (https://developer.github.com/v3/)
-[node-github] (https://github.com/mikedeboer/node-github)
+* [passport-github] (https://github.com/jaredhanson/passport-github)
+* [Github API Docs] (https://developer.github.com/v3/)
+* [node-github] (https://github.com/mikedeboer/node-github)
 
 ##Step 1: Create Skeleton of Angular App
 To mix it up, let's create the file structure for the Angular app first.
