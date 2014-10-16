@@ -10,9 +10,7 @@ To mix it up, let's create the file structure for the Angular app first.
 * Create a `/public` folder
 * Create the following files:
   * app.js
-  * controllers/login-ctrl.js
   * services/github-service.js
-  * services/login-service.js
   * templates/index.html
   * templates/home.html
   * templates/friend.html
