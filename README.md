@@ -71,6 +71,7 @@ var requireAuth = function(req, res, next) {
 ```
 
 If the client gets a status of 403, it will know that it needs to redirect the user to the `/` page so the user can log in again. **Keep in mind, this will happen every time your server restarts.**
+// DONE
 
 ##Step 4: HomeCtrl + Github Service
 Now let's connect your Angular app to this setup.
