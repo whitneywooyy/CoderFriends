@@ -32,6 +32,7 @@ The home route will display the current user's GitHub friends via the home.html 
 This route will display a friend's information as well as what they're currently working on.
 
 Create the server.js file and set it up to serve your static files.
+// DONE
 
 ##Step 2: Create the auth endpoints
 
