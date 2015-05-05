@@ -50,6 +50,7 @@ Use passport.authenticate with Github
 
 ####/auth/github/callback
 Use passport.authenticate and upon successful auth, send the user to `/#/home`
+// DONE
 
 ##Step 3: Github following Endpoint
 Let's link the Angular Github service to our server.js
