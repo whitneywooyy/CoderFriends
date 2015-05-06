@@ -104,7 +104,7 @@ app.factory('myHttpInterceptor', function($q) {
 });
 ```
 
-##Step 5: Friend route
+##Step 6: Friend route
 Make it so that when the user clicks on one of the selected friends, it loads in that user's latest activity.
 
 ####GET /api/github/:username/activity
